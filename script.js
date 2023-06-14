@@ -1,3 +1,5 @@
+QUESTAO 1
+
 function verificarPrimo(numero) {
     // Verifica se o número é menor que 2, que não pode ser primo
     if (numero < 2) {
@@ -38,6 +40,7 @@ function verificarPrimo(numero) {
 
  ///////////////////////////////////////////////////////
 
+QUESTAO 2
 
 // Função para verificar se uma senha atende aos critérios
 function verificarSenha(senha) {
@@ -68,6 +71,7 @@ function verificarSenha(senha) {
 
   ////////////////////////////////////////////////
 
+QUESTAO 3
 
   // Função para calcular o fatorial de um número
 function calcularFatorial(numero) {
@@ -93,6 +97,7 @@ function calcularFatorial(numero) {
   
   ////////////////////////////////////////////////////////
 
+QUESTAO 4
 
   // Função que verifica se um número é um quadrado perfeito
 function verificarQuadradoPerfeito(numero) {
